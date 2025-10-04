@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-image: url('https://i.pinimg.com/736x/78/9f/18/789f18c657f510c6abb6a35feae8882b.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 40px 20px; border-radius: 10px;">
   <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" width="150px">
   
   <p>
