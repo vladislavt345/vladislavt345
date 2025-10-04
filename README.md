@@ -95,7 +95,7 @@
       <img width="6px" height="1px">
       
       <a href="https://www.postman.com/">
-        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" height="60" alt="postman logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" height="60" alt="postman logo"/>
       </a>
       <img width="6px" height="1px">
     </td>
