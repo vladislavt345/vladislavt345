@@ -1,4 +1,7 @@
-<div align="center" style="background-image: url('https://i.pinimg.com/736x/78/9f/18/789f18c657f510c6abb6a35feae8882b.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 40px 20px; border-radius: 10px;">
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
+  
   <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" width="150px">
   
   <p>
@@ -65,4 +68,7 @@
   <p>
     <small>QA Engineer • Automation Testing • CI/CD</small>
   </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
 </div>
