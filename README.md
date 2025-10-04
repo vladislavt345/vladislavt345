@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="180">
+  <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="140">
 </div>
 
 <table>
