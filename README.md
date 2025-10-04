@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="200">
+  <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="70">
 </div>
 
 <!-- Table Icons -->
@@ -7,24 +7,22 @@
   
   <!-- Core -->
   <tr>
-    <th width="200px">
+    <th width="70px">
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
-            <h2>Core</h2>
+            <h3>Core</h3>
           </summary>
         </ul>
       </div>
     </th>
-    <td width="650px">
+    <td width="220px">
       <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" height="60" alt="python logo"/>
-      </a>
-      <img width="6px" height="1px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" height="20" alt="python logo"/>
+      </a>&nbsp;
       <a href="https://docs.pytest.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" height="60" alt="pytest logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" height="20" alt="pytest logo"/>
       </a>
-      <img width="6px" height="1px">
     </td>
   </tr>
 
