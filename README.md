@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="140">
-</div>
-
 <table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="160">
+    </td>
+  </tr>
   
   <!-- Core -->
   <tr>
