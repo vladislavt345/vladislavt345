@@ -2,7 +2,6 @@
   <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" alt="Avatar" width="70">
 </div>
 
-<!-- Table Icons -->
 <table>
   
   <!-- Core -->
@@ -18,10 +17,10 @@
     </th>
     <td width="220px">
       <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" height="20" alt="python logo"/>
-      </a>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" height="40" alt="python logo"/>
+      </a>
       <a href="https://docs.pytest.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" height="20" alt="pytest logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" height="40" alt="pytest logo"/>
       </a>
     </td>
   </tr>
@@ -39,17 +38,14 @@
     </th>
     <td>
       <a href="https://about.gitlab.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" height="60" alt="gitlab logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" height="40" alt="gitlab logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="60" alt="git logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="40" alt="git logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" height="60" alt="docker logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" height="40" alt="docker logo"/>
       </a>
-      <img width="6px" height="1px">
     </td>
   </tr>
 
@@ -66,9 +62,8 @@
     </th>
     <td>
       <a href="https://playwright.dev/">
-        <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" height="60" alt="playwright logo"/>
+        <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" height="40" alt="playwright logo"/>
       </a>
-      <img width="6px" height="1px">
     </td>
   </tr>
 
@@ -85,13 +80,11 @@
     </th>
     <td>
       <a href="https://swagger.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" height="60" alt="swagger logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" height="40" alt="swagger logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="https://www.postman.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" height="60" alt="postman logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" height="40" alt="postman logo"/>
       </a>
-      <img width="6px" height="1px">
     </td>
   </tr>
 
@@ -108,21 +101,17 @@
     </th>
     <td>
       <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="60" alt="vscode logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="40" alt="vscode logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="https://www.figma.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" height="60" alt="figma logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" height="40" alt="figma logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="60" alt="postgresql logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40" alt="postgresql logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process.svg" title="SCRUM" width="80" height="60" alt="scrum logo"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process.svg" title="SCRUM" height="40" alt="scrum logo"/>
       </a>
-      <img width="6px" height="1px">
     </td>
   </tr>
 
@@ -139,13 +128,11 @@
     </th>
     <td>
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="60" alt="linux logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40" alt="linux logo"/>
       </a>
-      <img width="6px" height="1px">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" height="60" alt="windows logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" height="40" alt="windows logo"/>
       </a>
-      <img width="6px" height="1px">
     </td>
   </tr>
   
