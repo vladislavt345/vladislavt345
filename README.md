@@ -16,7 +16,7 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
-  <h2 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">Technical Expertise</h2>
+  <h2 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">Tech Stack</h2>
   
   <table>
     <tr>
