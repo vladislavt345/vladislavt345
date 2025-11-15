@@ -2,14 +2,8 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
-  <table>
-    <tr>
-      <td width="100%" align="center">
-        <h1 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">QA Engineer</h1>
-        <p style="font-family: 'Times New Roman', serif; font-style: italic; letter-spacing: 1px;">Automation Testing • CI/CD</p>
-      </td>
-    </tr>
-  </table>
+  <h1 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">QA Engineer</h1>
+  <p style="font-family: 'Times New Roman', serif; font-style: italic; letter-spacing: 1px;">Automation Testing • CI/CD</p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
