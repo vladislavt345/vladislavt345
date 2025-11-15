@@ -102,21 +102,4 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
-  <table>
-    <tr>
-      <td width="50%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
-        <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
-          <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
-        <a href="mailto:email@example.com" target="_blank" rel="noopener noreferrer">
-          <img alt="Email" src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=for-the-badge" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
-  
 </div>
