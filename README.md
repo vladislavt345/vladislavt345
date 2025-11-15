@@ -4,10 +4,7 @@
   
   <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://avatars.githubusercontent.com/u/184310091?v=4" alt="Profile" width="150" style="border-radius: 10px; border: 2px solid #000;">
-      </td>
-      <td width="50%" align="center">
+      <td width="100%" align="center">
         <h1 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">QA Engineer</h1>
         <p style="font-family: 'Times New Roman', serif; font-style: italic; letter-spacing: 1px;">Automation Testing • CI/CD</p>
       </td>
@@ -26,8 +23,11 @@
           <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
             <img alt="Python" src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" />
           </a>
-          <a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer">
-            <img alt="pytest" src="https://img.shields.io/badge/pytest-000000?logo=pytest&logoColor=white&style=for-the-badge" />
+          <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://zed.dev/" target="_blank" rel="noopener noreferrer">
+            <img alt="Zed" src="https://img.shields.io/badge/Zed-000000?logo=zed&logoColor=white&style=for-the-badge" />
           </a>
         </p>
       </td>
@@ -51,6 +51,9 @@
       <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
         <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">Testing</h3>
         <p>
+          <a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer">
+            <img alt="pytest" src="https://img.shields.io/badge/pytest-000000?logo=pytest&logoColor=white&style=for-the-badge" />
+          </a>
           <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
             <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white&style=for-the-badge" />
           </a>
@@ -67,9 +70,6 @@
       <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
         <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">Design</h3>
         <p>
-          <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-            <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-          </a>
           <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
             <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&style=for-the-badge" />
           </a>
