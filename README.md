@@ -43,6 +43,9 @@
           <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
             <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&style=for-the-badge" />
           </a>
+          <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+            <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-000000?logo=kubernetes&logoColor=white&style=for-the-badge" />
+          </a>
         </p>
       </td>
       <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
@@ -77,6 +80,9 @@
         <p>
           <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
             <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
           </a>
         </p>
       </td>
