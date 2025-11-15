@@ -1,74 +1,116 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
-  <img src="https://media.tenor.com/tQThay3xZ-oAAAAi/cat.gif" width="150px">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://avatars.githubusercontent.com/u/184310091?v=4" alt="Profile" width="150" style="border-radius: 10px; border: 2px solid #000;">
+      </td>
+      <td width="50%" align="center">
+        <h1 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">QA Engineer</h1>
+        <p style="font-family: 'Times New Roman', serif; font-style: italic; letter-spacing: 1px;">Automation Testing • CI/CD</p>
+      </td>
+    </tr>
+  </table>
   
-  <p>
-    <!-- Python -->
-    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    </a>
-    <!-- Pytest -->
-    <a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer">
-      <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" />
-    </a>
-    <!-- GitLab -->
-    <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
-    </a>
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-    </a>
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-    </a>
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
-  <p>
-    <!-- Playwright -->
-    <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
-      <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
-    </a>
-    <!-- Swagger -->
-    <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
-      <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
-    </a>
-    <!-- Postman -->
-    <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-    </a>
-    <!-- VS Code -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
-    </a>
-    <!-- Figma -->
-    <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-    </a>
-  </p>
+  <h2 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 2px;">Technical Expertise</h2>
   
-  <p>
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-    </a>
-    <!-- Linux -->
-    <a href="#" target="_blank" rel="noopener noreferrer">
-      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-    </a>
-    <!-- Windows -->
-    <a href="#" target="_blank" rel="noopener noreferrer">
-      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">Development</h3>
+        <p>
+          <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+            <img alt="Python" src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer">
+            <img alt="pytest" src="https://img.shields.io/badge/pytest-000000?logo=pytest&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">DevOps</h3>
+        <p>
+          <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="GitLab" src="https://img.shields.io/badge/GitLab-000000?logo=gitlab&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">Testing</h3>
+        <p>
+          <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
+            <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
+            <img alt="Swagger" src="https://img.shields.io/badge/Swagger-000000?logo=swagger&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?logo=postman&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">Design</h3>
+        <p>
+          <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+            <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">Database</h3>
+        <p>
+          <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+            <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <h3 style="font-family: 'Times New Roman', serif; font-weight: 300; letter-spacing: 1px;">OS</h3>
+        <p>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" />
+          </a>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
   
-  <p>
-    <small>QA Engineer • Automation Testing • CI/CD</small>
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <table>
+    <tr>
+      <td width="50%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
+          <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: 1px solid #000; padding: 15px; margin: 10px; border-radius: 5px; background-color: #f8f8f8;">
+        <a href="mailto:email@example.com" target="_blank" rel="noopener noreferrer">
+          <img alt="Email" src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%">
   
 </div>
